@@ -1,12 +1,12 @@
 Source: rtl8814au
 Section: kernel
 Priority: optional
-Maintainer: jimmy <jimmy@jimmy-alpha>
+Maintainer: Peter Gavin <pgavin@gmail.com>
 Build-Depends: debhelper (>=9), dkms, git, sed, sbsigntool
 Standards-Version: 3.9.6
 Homepage: http://www.realtek.com.tw/
-Vcs-Git: https://github.com/coolshou/rtl8814au.git
-Vcs-Browser: https://github.com/coolshou/rtl8814au
+Vcs-Git: https://github.com/pgavin/rtl8814au.git
+Vcs-Browser: https://github.com/pgavin/rtl8814au
 
 Package: rtl8814au-dkms
 Architecture: all
